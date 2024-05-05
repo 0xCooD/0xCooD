@@ -16,7 +16,7 @@
   />
 </p>
 
-## 💬 Discord: 0xcoding
+## 💬 Discord: <h1><a href="https://discord.com/users/1177452314672513044">0xcoding</a></h1>
 
 <!---
 0xCooD/0xCooD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
