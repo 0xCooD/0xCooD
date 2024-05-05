@@ -7,7 +7,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 About
 💬 Discord: 0xcoding
+
 <!---
 0xCooD/0xCooD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
